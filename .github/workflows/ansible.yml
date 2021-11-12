@@ -33,3 +33,4 @@ jobs:
      with:
        playbook: ambiente/provide.yml
        inventory: ambiente/config/inventory.aws_ec2.yml 
+       teste
